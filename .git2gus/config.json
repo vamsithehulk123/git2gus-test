@@ -1,5 +1,6 @@
 {
     "productTag": "a0i1Q00000PA679",
-    "defaultBuild": "218"
+    "defaultBuild": "218",
+    "issueTypeLabels": { "feature": "USER STORY", "urgent": "BUG P0" }
 }
     
